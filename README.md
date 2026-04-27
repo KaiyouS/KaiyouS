@@ -1,6 +1,6 @@
 # Hi, I'm Kaiyou Serra 👋
 
-I pay attention to the dev experience just as much as I do with the user experience. I like listening to music, playing chess, and looking at the stars--even if I .
+I pay attention to the dev experience just as much as I do with the user experience. I like listening to music, playing chess, and looking at the stars--even if I don't get to do it often.
 
 <br />
 
@@ -30,22 +30,7 @@ I pay attention to the dev experience just as much as I do with the user experie
 <br />
 
 ## Stats
-<br />
-<p align="center" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiyouS&layout=compact&hide_border=true&bg_color=111827&title_color=FFDD33&text_color=ffffff99&langs_count=6" alt="Top Languages" width="40%" />
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=KaiyouS&hide_border=true&background=111827&ring=FFDD33&fire=FFDD33&currStreakLabel=FFDD33&sideLabels=ffffff99&dates=ffffff60&sideNums=ffffff99&currStreakNum=ffffff" alt="GitHub Streak" width="50%" />
 </p>
-<br />
-<img src="https://streak-stats.demolab.com/?user=KaiyouS&hide_border=true&background=111827&ring=FFDD33&fire=FFDD33&currStreakLabel=FFDD33&sideLabels=ffffff99&dates=ffffff60&sideNums=ffffff99&currStreakNum=ffffff" alt="GitHub Streak" width="100%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KaiyouS&bg_color=111827&color=FFDD33&line=FFDD3388&point=FFDD33&area=true&area_color=FFDD3315&hide_border=true" alt="Contribution Graph" width="100%" />
-
-<br />
-
-## Let's connect
-
-- **Email** — [kaiyou.personal@gmail.com](mailto:kaiyou.personal@gmail.com)
-- **LinkedIn** — [kaiyou-serra](https://www.linkedin.com/in/kaiyou-serra-73484b23b/)
-
-<br />
-
----
