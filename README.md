@@ -2,8 +2,6 @@
 
 I pay attention to the dev experience just as much as I do with the user experience. I like listening to music, playing chess, and looking at the stars--even if I don't get to do it often.
 
-<br />
-
 ## Stack
 
 **Backend & Database**
@@ -26,8 +24,6 @@ I pay attention to the dev experience just as much as I do with the user experie
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-<br />
 
 ## Stats
 
